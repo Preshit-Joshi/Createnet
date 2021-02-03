@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="About" />
+    <item
+        android:id="@+id/nav_discover"
+        android:icon="@drawable/ic_baseline_person_pin_circle_24"
+        android:title="Discover" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:title="Profile" />
+</menu>

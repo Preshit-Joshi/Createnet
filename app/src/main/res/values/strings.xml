@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Createnet</string>
+    <string name="signup">Signup</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="sign_up">sign up</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="welcome_to_createnet">Welcome To Createnet</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_address">Email Address</string>
+    <string name="proceed">Proceed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_discover_maps">Map</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917524232164",
+    "project_id": "createnet-c8488",
+    "storage_bucket": "createnet-c8488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917524232164:android:8f1e5ed813299f2a1879f1",
+        "android_client_info": {
+          "package_name": "com.example.createnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917524232164-675se1in1i4nfgkfe15penb6sejvscaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.createnet",
+            "certificate_hash": "bf097824434e31455c2b2aae7b014f5e28913633"
+          }
+        },
+        {
+          "client_id": "917524232164-2d5ensf94e29np5btd1dt22ev1apugqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwHxWgtMiXZjp3IvhVH8uNjv8Sv0tm-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917524232164-2d5ensf94e29np5btd1dt22ev1apugqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
